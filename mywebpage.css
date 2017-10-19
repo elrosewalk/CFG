@@ -1,0 +1,28 @@
+header{
+	text-align: center;
+	color: white;
+	background: url("https://farm1.nzstatic.com/_proxy/imageproxy_1y/serve/milford-sound.jpg?focalpointx=50&focalpointy=50&height=440&outputformat=jpg&quality=75&source=2395840&transformationsystem=focalpointcrop&width=1280&securitytoken=320A6A544B3FD88F97FD51CED20262C6");
+	background-size: cover;
+}
+h1{
+	font-size: 70px;
+	font-family: 'Open Sans Condensed', cursive;
+}
+a{
+	color: white;
+}
+ul{
+	padding: 10px;
+	background: white;
+	background: #7da6e8;
+}
+li{
+	display: inline;
+	padding: 0px 10px 0px 10px;
+	font-family: "Courier New";
+}
+img{
+	margin: 40px 0px 0px 0px;
+	border: 7px solid white;
+	border-radius: 7px;
+}
